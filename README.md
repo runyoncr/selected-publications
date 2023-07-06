@@ -1,1 +1,1 @@
-# selected-publications
+Generic location for manuscripts and publications.
